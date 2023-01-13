@@ -123,7 +123,9 @@ form .main__ul li:hover{
     text-align: center;
     
 }
-
+.img__selection{
+    margin: 1rem 0;
+}
 
 #dinamic__info{
     background-color: #2C353F ;
