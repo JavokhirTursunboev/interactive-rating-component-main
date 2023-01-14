@@ -114,6 +114,7 @@ form .main__ul li:hover{
 
 /* hover */
 .btn:hover{
+    transition: 0.5s;
     background-color: var(--White);
     color: var(--Orange);
 }
@@ -150,7 +151,7 @@ form .main__ul li:hover{
     margin: 1rem 0;
 }
 
-.hide__window{
+.hidden{
     display: none;
 }
 
