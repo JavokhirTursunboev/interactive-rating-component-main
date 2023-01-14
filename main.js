@@ -21,6 +21,7 @@ for (let i = 0; i < rating.length; i++) {
     }
     rating[i].classList.add("selected");
 
+    
     // change text of thank
 
     rateText.textContent = `You selected ${numbers} out of 5`;

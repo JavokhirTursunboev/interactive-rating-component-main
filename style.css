@@ -165,6 +165,6 @@ footer .attribution {
 footer  .attribution a { color: hsl(228, 44%, 74%); } 
 
 .selected {
-    background-color: var(--orangecolor);
-    color: var(--white);
+    background-color:var(--Orange);
+    color: var(--White);
   }  
