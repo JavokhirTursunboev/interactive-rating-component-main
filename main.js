@@ -16,11 +16,9 @@ for (let i = 0; i < rating.length; i++) {
     const numbers = rating[i].textContent;
 
     for (let i = 0; i < rating.length; i++) {
-      rating[i].classList.contains("selected");
       rating[i].classList.remove("selected");
     }
     rating[i].classList.add("selected");
-
     
     // change text of thank
 
